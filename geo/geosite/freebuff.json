@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "graph.whatsapp.com",
-        "graph.whatsapp.net"
+        "codebuff.com",
+        "freebuff.com"
       ]
     }
   ]
