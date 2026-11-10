@@ -3,8 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "videoxiaoyouxi.com",
-        "wegame.com",
+        "yxdmgame.com",
+        "nagcloudcs.com",
         "gameloop.com",
         "gcloudcs.com",
         "gcloudcstest.com",
@@ -12,7 +12,6 @@
         "gclouddolphin.com",
         "gcloudsdk.com",
         "gcloudsvcs.com",
-        "yxdmgame.com",
         "goto-game.com",
         "goto-game.mobi",
         "goto-game.org",
@@ -21,16 +20,15 @@
         "hkgcloudcs.com",
         "ihappystudio.cn",
         "ihappystudio.com",
-        "in.th",
         "ludosuperstar.cn",
         "ludoworld.net",
         "mahjongai.net",
-        "battlecare.net",
+        "videoxiaoyouxi.com",
         "mahjongcup.com",
         "mahjongcup.net",
         "metalrevolution.com",
         "midasbuy.com",
-        "nagcloudcs.com",
+        "battlecare.net",
         "proximabeta.com",
         "pubghelper.com",
         "pubgno1.cn",
@@ -46,8 +44,8 @@
         "texasholdemcup.net",
         "timibase.com",
         "mahjongcup.cn",
+        "17roco.com",
         "gameitop.com",
-        "gdtimg.com",
         "yximg.cn",
         "yxwsgame.com",
         "yzyxgame.com",
@@ -64,10 +62,10 @@
         "gamebonfire.com",
         "ffbuddy.com",
         "gotolink.net",
-        "17roco.com",
+        "wcbygame.com",
         "gtgres.com",
         "realcybertron.com",
-        "wcbygame.com",
+        "wegame.com",
         "anticheatexpert.com",
         "tcfmglobal.com",
         "bcfmglobal.com",
@@ -88,7 +86,10 @@
         "gouhuo.qq.com",
         "roblox.qq.com",
         "goto-game.net.cn",
-        "roco.qq.com"
+        "roco.qq.com",
+        "tencentgames.com",
+        "levelinfinite.com",
+        "nikke-en.com"
       ]
     }
   ]
